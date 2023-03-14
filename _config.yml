@@ -32,10 +32,11 @@ url: 'https://monouns.github.io/'
 github:
   username: 'monouns'             # change to your github username
 
+linedin:
+  username: 'jihyeon-seong-302571267'
+
 twitter:
   username: 'monoun_s'           # change to your twitter username
-
-linkedin_username: 'jihyeon-seong-302571267'
 
 social:
   # Change to your full name.
@@ -44,7 +45,7 @@ social:
   email: jihyeon.seong@kaist.ac.kr             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/monoun_s      # change to your twitter homepage
+    - https://www.linkedin.com/in/jihyeon-seong-302571267      # change to your twitter homepage
     - https://github.com/monouns       # change to your github homepage
     # Uncomment below to add more social links
     #- https://www.facebook.com/profile.php?id=100090700713715
